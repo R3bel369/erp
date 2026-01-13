@@ -1,0 +1,7 @@
+{
+  "name": "Erp",
+  "description": "Advanced ERP with AI insights, IoT scanning simulation, and financial audit systems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
